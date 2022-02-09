@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df940b65.css",
+    "main.js": "/static/js/main.105c6915.js",
+    "static/media/Illustration.svg": "/static/media/Illustration.8ed4d8bb749c045a3163919eb1839d49.svg",
+    "static/media/Logo.svg": "/static/media/Logo.caf57defeb184ca7a971f40a51062cfa.svg",
+    "static/media/IconGoogle.svg": "/static/media/IconGoogle.a4c23de3529d6aca69360f65a1f86898.svg",
+    "static/media/Copy.svg": "/static/media/Copy.9c04f82702c026e6b3f7fdb47bd98d90.svg",
+    "index.html": "/index.html",
+    "static/media/Login1.svg": "/static/media/Login1.a652db47c66265ca83504d9b9a320f60.svg",
+    "static/media/Excluir.svg": "/static/media/Excluir.a75a541f82b59fa74d9538feffa16a12.svg",
+    "static/media/Messages.svg": "/static/media/Messages.bbdc9f1dffae45b08454e15fbab89fb7.svg",
+    "static/media/Checkmark.svg": "/static/media/Checkmark.ad4da7ee7e43d2ae440d6e2cb437528a.svg",
+    "main.df940b65.css.map": "/static/css/main.df940b65.css.map",
+    "main.105c6915.js.map": "/static/js/main.105c6915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df940b65.css",
+    "static/js/main.105c6915.js"
+  ]
+}
