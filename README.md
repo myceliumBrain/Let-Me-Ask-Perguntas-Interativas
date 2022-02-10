@@ -7,7 +7,7 @@
 
 <br>
 <h1>LetMeAsk</h1>
-<p>LetMeAsk é uma aplicação com o intuito de possibilitar a criação de páginas com a possibilidade de perguntas interativas, sendo moderadas pelo criador da mesma. Foi desenvolvida com React.js e Firebase</p>
+<p>"LetMeAsk - Perguntas Interativas" é uma aplicação com o intuito de possibilitar a criação de espaços onde usuários possam se organizar para a realização de perguntas, sendo moderadas pelo criador da mesma. Foi desenvolvida com React.js e Firebase</p>
 
 <br>
 <h2>📷 Veja:</h2>
